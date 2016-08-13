@@ -1,0 +1,7 @@
+requests
+pyopenssl
+urllib3
+ndg-httpsclient
+pyasn1
+httpclient
+psycopg2
